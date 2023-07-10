@@ -20,11 +20,11 @@ pip install pytest-qt
 
 ## Usage
 
-* Run [app.py](app.py) file.
+* Run [app.py](function_plotter.py) file.
 ```python
-python app.py
+python function_plotter.py
 ```
-* In case of testing, run [test_app.py](test_app.py) file.
+* In case of testing, run [test_app.py](program_test.py) file.
 ```python
-pytest test_app.py
+pytest program_test.py
 ```
