@@ -28,3 +28,19 @@ python function_plotter.py
 ```python
 pytest program_test.py
 ```
+
+### Working Examples
+
+[start](/images/img1.png)
+
+![working function](/images/img2.png)
+
+![constant function](images/img3.png)
+
+### Wrong Examples
+
+![Function error](/screenshots/img2.png)
+
+![x limits error1](/screenshots/img4.png)
+
+![x limits error2](/screenshots/img5.png)
