@@ -163,6 +163,7 @@ class PlotWidget(QWidget):
             return
 
         self.axes.clear()
+        self.axes.set(title="Function Plotting", xlabel=r'$x$', ylabel=r'$f(x)$')
         self.axes.plot(x, y)
         self.view.draw()
 
