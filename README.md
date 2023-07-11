@@ -8,14 +8,14 @@
 * App requirments 
 ```python
 pip install PySide2
-pip install numpy
-pip install matplotlib
-pip install os-sys
+pip install Numpy
+pip install Matplotlib
+pip install OS-Sys
 ```
 * Testing Requirments
 ```python
-pip install pytest
-pip install pytest-qt
+pip install Pytest
+pip install Pytest-Qt
 ```
 
 ## Usage
