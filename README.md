@@ -20,7 +20,7 @@ pip install pytest-qt
 
 ## Usage
 
-* Run [function_plotter.py](function_plotter.py) file.
+* Run [function_plotter.py](/function_plotter.py) file.
 ```python
 python function_plotter.py
 ```
