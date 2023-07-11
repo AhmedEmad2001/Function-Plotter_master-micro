@@ -31,16 +31,16 @@ pytest program_test.py
 
 ### Working Examples
 
-[start](/images/img1.png)
+![start](images/img1.png)
 
-![working function](/images/img2.png)
+![working function](images/img2.png)
 
 ![constant function](images/img3.png)
 
 ### Wrong Examples
 
-![Function error](/screenshots/img2.png)
+![Function error](images/img4.png)
 
-![x limits error1](/screenshots/img4.png)
+![x limits error1](images/img5.png)
 
-![x limits error2](/screenshots/img5.png)
+![x limits error2](images/img6.png)
